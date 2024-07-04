@@ -31,3 +31,6 @@ The backend is built with Node.js and provides an API for managing data.
 ## Add Record
    ![Home](https://github.com/kundan761/Statxo/blob/master/client/src/assets/Addrecord.png)
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
