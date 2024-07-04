@@ -1,0 +1,57 @@
+/* Navbar Container */
+.navbar {
+    background-color: #007bff; /* Background color of the navbar */
+    padding: 10px 20px; /* Padding for spacing */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  }
+  
+  /* Navbar Inner Container */
+  .navbar-container {
+    max-width: 1200px; /* Maximum width for the container */
+    margin: 0 auto; /* Center align the container */
+    display: flex;
+    justify-content: space-between; /* Space between brand and links */
+    align-items: center; /* Center items vertically */
+  }
+  
+  /* Navbar Brand */
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff; /* Text color for the brand */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  /* Navbar Links Container */
+  .navbar-links {
+    display: flex;
+    gap: 20px; /* Space between links */
+  }
+  
+  /* Navbar Link Styles */
+  .navbar-link {
+    color: #ffffff; /* Text color for the links */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 15px; /* Padding for clickable area */
+    border-radius: 4px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+  }
+  
+  .navbar-link:hover {
+    background-color: #0056b3; /* Darker background on hover */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .navbar-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    
+    .navbar-links {
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 10px; /* Space above links */
+    }
+  }
+  
