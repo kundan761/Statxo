@@ -1,1 +1,1 @@
-export const url ='https://statxo-9zyd.onrender.com'
+export const url ='https://statxo-62v6.onrender.com'
