@@ -59,28 +59,4 @@
     "status": "Pending",
     "Impact": "Low"
   },
-  {
-    "id": 6,
-    "quantity": 8,
-    "amount": 800,
-    "postingYear": 2024,
-    "postingMonth": "July",
-    "actionType": "Type1",
-    "actionNumber": "001",
-    "actionName": "Action1",
-    "status": "Approved",
-    "Impact": "Low"
-  },
-  {
-    "id": 7,
-    "quantity": 100,
-    "amount": 150,
-    "postingYear": 2024,
-    "postingMonth": "July",
-    "actionType": "Type2",
-    "actionNumber": "001",
-    "actionName": "Action3",
-    "status": "Approved",
-    "Impact": "High"
-  }
 ]
