@@ -8,7 +8,7 @@ This is a full-stack application with a Node.js backend and a React frontend. Th
 - A role-based login system where admins can edit the status field.
   
 ### Frontend Deployed Link :-  https://statxo-wheat.vercel.app/
-### Backend Deployed Link  :-  https://statxo-9zyd.onrender.com/api/data
+### Backend Deployed Link  :-  https://statxo-62v6.onrender.com/api/data
 
 ## Features
 
